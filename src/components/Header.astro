@@ -1,0 +1,35 @@
+---
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/"
+const links = [
+  { href: "/paintings", label: "Paintings" },
+  { href: "/watercolors", label: "Watercolors" },
+  { href: "/portraits", label: "Portraits" },
+  { href: "/prints", label: "Prints" },
+  { href: "/sculptures", label: "Sculptures" },
+  { href: "/about", label: "About" },
+]
+---
+
+<header class="w-full px-6 pt-8 pb-8 sm:px-10 sm:pt-10 lg:px-16 xl:px-20">
+  <div class="flex items-end justify-between gap-4 border-b border-neutral-300 pb-6 sm:pb-8">
+    <a href="/" aria-current={currentPath === "/" ? "page" : undefined} class="font-serif text-[clamp(1.65rem,4vw,2.15rem)] leading-none font-medium tracking-[-0.045em] text-accent">
+      David Campbell
+    </a>
+    <span class="pb-0.5 text-xl text-neutral-500 sm:text-base">1931–2018</span>
+  </div>
+  <nav class="grid grid-cols-3 border-b border-neutral-300 md:grid-cols-6" aria-label="Main navigation">
+    {links.map(({ href, label }) => (
+      <a
+        href={href}
+        aria-current={currentPath === href ? "page" : undefined}
+        class:list={[
+          "relative border-t-2 border-transparent px-1 py-3 text-[13px] transition-colors hover:text-accent sm:text-sm",
+          currentPath === href ? "font-bold text-accent" : "text-neutral-700",
+        ]}
+      >
+        {currentPath === href && <span class="nav-active-indicator" aria-hidden="true"></span>}
+        {label}
+      </a>
+    ))}
+  </nav>
+</header>

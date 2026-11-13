@@ -1,0 +1,16 @@
+---
+import Layout from "../layouts/Layout.astro"
+import Gallery from "../components/Gallery.astro"
+import { sections, type Section } from "../lib/gallery"
+
+export function getStaticPaths() {
+  return sections.map((section) => ({ params: { section } }))
+}
+
+const section = Astro.params.section as Section
+const title = section[0].toUpperCase() + section.slice(1)
+---
+
+<Layout title={title} description={`${title} by David Campbell.`} active="works">
+  <Gallery section={section} />
+</Layout>

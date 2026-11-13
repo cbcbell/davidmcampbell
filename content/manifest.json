@@ -1,0 +1,692 @@
+{
+  "source": "https://davidmcampbell.net/",
+  "pages": [
+    {
+      "url": "https://davidmcampbell.net/",
+      "html": "pages/index.html",
+      "text": "pages/index.txt"
+    },
+    {
+      "url": "https://davidmcampbell.net/about",
+      "html": "pages/about.html",
+      "text": "pages/about.txt",
+      "markdown": "About.md"
+    },
+    {
+      "url": "https://davidmcampbell.net/paintings",
+      "html": "pages/paintings.html",
+      "text": "pages/paintings.txt"
+    },
+    {
+      "url": "https://davidmcampbell.net/portraits",
+      "html": "pages/portraits.html",
+      "text": "pages/portraits.txt"
+    },
+    {
+      "url": "https://davidmcampbell.net/prints",
+      "html": "pages/prints.html",
+      "text": "pages/prints.txt"
+    },
+    {
+      "url": "https://davidmcampbell.net/sculptures",
+      "html": "pages/sculptures.html",
+      "text": "pages/sculptures.txt"
+    },
+    {
+      "url": "https://davidmcampbell.net/watercolors",
+      "html": "pages/watercolors.html",
+      "text": "pages/watercolors.txt"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468187967725-G0YIL5KQ4VTO8UIIZUFN/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/",
+      "path": "Home/001-image-asset-bf8922e3ca.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468187862074-XIONHGH18RWCOZIVHC69/Can052_02_3752_1024p.jpg",
+      "title": "",
+      "description": "August 31, 1931 to May 18, 2018 (age 86).",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/001-Can052_02_3752_1024p-0d9acd11d5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218593875-PJJ6LGY0B2Z17ZTCD5S0/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/002-image-asset-9ac06ab1d7.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218612635-E9TWRW8PVZD6HR6IKD79/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/003-image-asset-0677c6a164.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218671108-H4ZMUEQA3Z5W9VFHC3J9/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/004-image-asset-15da947e25.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218770353-41EJLXQYY2456K95N2MU/image-asset.jpeg",
+      "title": "",
+      "description": "The Rhine, 1964, oil on canvas, 109 x 27\"",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/005-image-asset-69a92d8914.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218859539-MWFVSCNRQWSQF2G4P7V2/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/006-image-asset-35f5841d77.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218909440-JDAFLB0SN5FV32BJ7438/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/007-image-asset-cf247d60d4.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218950173-BXHY1HWCQ0VZYOSIEMXO/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/008-image-asset-9f2833fffa.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485218970102-E72T8XUOZF8RA7RZ2J07/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/009-image-asset-e685b2cd82.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485219033948-EQLPYEACF93UE3W9HMR5/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/010-image-asset-f04d63b0c4.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485219062946-3RK5A734IMHWZMIJYUEY/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/011-image-asset-460866f398.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485219111044-KJDZNGFQ2QM58OOF1V91/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/012-image-asset-5411e07150.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485219203670-K4R3IAUIFU7M71XGYX5I/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/013-image-asset-73dcea5600.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1485219215144-MR9EQ7Q72X6V2DWR75G8/image-asset.jpeg",
+      "title": "",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/about",
+      "path": "About/014-image-asset-784ffbe399.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271575452-FYLFMZYIRWHFNSI5R7IT/01_A6000_01_1511_2048p.jpg",
+      "title": "La Rosa",
+      "description": "1955, oil/canvas, 42.5 x 57.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/001-La-Rosa-e9b8228ccc.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271572044-GJ8TY6XKNJA2YEGA1P0U/02_NEX5N_01_0813_2048p.jpg",
+      "title": "Wedding Portrait",
+      "description": "1956, oil/canvas, 50 x 60.2 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/002-Wedding-Portrait-2a4492ff8a.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271576647-C8K0WB9VWURVG5EVUIQ9/03_NEX5N_01_0771_2048p.jpg",
+      "title": "Morning Star",
+      "description": "1957, oil/canvas, 50 x 70.1 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/003-Morning-Star-21349a9c72.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271579968-UY3HOV6VNOO0MORZPE66/04_Lewis+Bluff_01_0306_1024p_2048p.jpg",
+      "title": "Lewis Bluff",
+      "description": "1958, oil/canvas, 24 x 38.2 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/004-Lewis-Bluff-54cb6b4d60.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271580542-4DHBVFMTFO03W4EH5JJT/05_A6000_01_4584_2048p.jpg",
+      "title": "Spring Blossoms",
+      "description": "1960, oil/canvas, 68.9 x 33.1 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/005-Spring-Blossoms-b29be25fb1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271582737-QSVY5VVMIB1QL9QDDHJE/06_NEX5N_01_1199_2048p.jpg",
+      "title": "Winter Woods",
+      "description": "Apr. 26, 1961 (33\" x 43 1/2\") Oil on canvas Exhibited 25th Annual Exhibition Artists of Central New York, MWP Inst. Utica, N. Y.",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/006-Winter-Woods-6a0767dd16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271584105-R7PB74G92I36K77HBPAQ/07_NEX5N_01_8511_2048p.jpg",
+      "title": "Oswego River",
+      "description": "1961, oil/canvas, 33.1 x 43.7 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/007-Oswego-River-ba9f232dfd.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271587918-Z7IVNSYWC2L59YDN5XP7/08_NEX5N_01_8531_2048p.jpg",
+      "title": "Rt. 104",
+      "description": "1961-04-21 43 x 33 1/2\"",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/008-Rt-104-d9bd6b1012.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271590319-4YPOTEWJKPGT7SWU4CYT/09_SonNX7_03_8628_2048p.jpg",
+      "title": "Spring at Fallbrook",
+      "description": "1961, oil/canvas, 43.3 x 33.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/009-Spring-at-Fallbrook-4f6816cf8a.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271594419-TRD9RA2TXQQROFVCB92A/10_SonNX7_03_8630_2048p.jpg",
+      "title": "Brophe's Point",
+      "description": "1962, oil/canvas, 20 x 20 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/010-Brophe-s-Point-0950d12be1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271596227-T0YNHH4IFWZ7R4JYUWYL/11_A6000_01_0994_2048p.jpg",
+      "title": "Toledo",
+      "description": "undated, oil/canvas, 36 x 48 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/011-Toledo-747d4d799d.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271598173-1KSVK5AS8BXEB76I7XHD/12_NEX5N_01_8626_2048p.jpg",
+      "title": "Road to Perigueux II",
+      "description": "1964, oil/canvas, 29.9 x 42.9 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/012-Road-to-Perigueux-II-91d88ba34b.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271600484-MKU2TGZNRDE1RZDDAMRJ/13_A6000_01_3747_2048p.jpg",
+      "title": "Fall Shore",
+      "description": "1965, oil/canvas, 36 x 48 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/013-Fall-Shore-7de1be8d60.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271606006-X9KYYVTL2TTX7HWP58BK/14_A6000_01_3748_2048p.jpg",
+      "title": "Yellow Fallbrook",
+      "description": "1965, oil/canvas, 36 x 48 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/014-Yellow-Fallbrook-b14cfbd646.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271603486-KYJC182XXC2AMJHNHOPB/15_A6000_01_0152_2048p.jpg",
+      "title": "San Miguel de Allende",
+      "description": "1971, oil/canvas, 48 x 60 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/015-San-Miguel-de-Allende-0de22969f0.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271606645-L9UKVMIB2BQLV0L17D20/16_NEX5N_01_8610_2048p.jpg",
+      "title": "Cadilac Mt. to Barr Harbor",
+      "description": "1992, oil/canvas, 23.2 x 31.1 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/016-Cadilac-Mt-to-Barr-Harbor-dec374cc3b.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271612515-6089TSDM2SVQMLSDTSLD/17_Puente+Romano+ptg.+8_2048p.jpg",
+      "title": "Puente Romano  (Roman Bridge)",
+      "description": "1994, oil/canvas, 36 x 48 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/017-Puente-Romano-Roman-Bridge-693e6c6110.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271611153-3XCONVIKPM914ZH0RSRG/18_SonNX7_03_8627_2048p.jpg",
+      "title": "Oak Point — Wind",
+      "description": "1996, oil/canvas, 11 x 15 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/018-Oak-Point-Wind-2d20beab1c.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271614215-39ZII8G1KBO3CTPV0J08/19_NEX5N_01_8569_2048p.jpg",
+      "title": "Oak Point — End",
+      "description": "1996, oil/canvas, 36 x 47 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/019-Oak-Point-End-3bda44aed5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271616759-H29NZDYMP7KJH50FZMRR/20_NEX5N_01_8592_2048p.jpg",
+      "title": "Oak Point — Blue",
+      "description": "1996, oil/canvas, 29.5 x 42.9 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/020-Oak-Point-Blue-e0c351291a.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271617378-M5SUCS8TB7H3LUB20YNX/21_NEX5N_01_8593_2048p.jpg",
+      "title": "Oak Point — Red",
+      "description": "2007, oil/canvas, 29.9 x 42.1 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/021-Oak-Point-Red-c82d5dec53.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271621635-IRQWVG7OLYVEMEMWSFB1/22_NEX5N_01_8599_2048p.jpg",
+      "title": "Lake Zumbra — Windy",
+      "description": "2015, oil/canvas, 50 x 37.4 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/022-Lake-Zumbra-Windy-c398051dfd.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271621736-76Q99TUVTZ9GI09EU8HY/23_SonNX7_03_8629_2048p.jpg",
+      "title": "Boltaña Monasterio",
+      "description": "2012, oil/canvas, 30 x 42 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/paintings",
+      "path": "Paintings/023-Boltaña-Monasterio-92ffdb226b.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271788580-RIHTDD85MOZDB7ML2LFL/01_p0000002062_2048p.jpg",
+      "title": "Carolyn",
+      "description": "1957, oil/canvas, 20 x 17 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/001-Carolyn-a6fd54f0ee.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271788730-0RA2POWXATR5L632NSBD/02_p0000001897_2048p.jpg",
+      "title": "Walter",
+      "description": "1959, oil/canvas, 20 x 17 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/002-Walter-6cb39a7d34.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271791995-WECJP5D93PP23QZEDP0V/03_Noverre+port+07_2048p.jpg",
+      "title": "Noverre",
+      "description": "1962, oil/canvas, 20 x 17 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/003-Noverre-f52780816b.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271792128-79C9VIFVN38V2DYBOKWJ/04_Can052_01_5414_2048p.jpg",
+      "title": "MHL",
+      "description": "1964, oil/canvas, 32 x 26 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/004-MHL-45ce863d14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271795719-SREQG2CE8EP5YSJKDSR8/05_NEX5N_01_2569_2048p.jpg",
+      "title": "Beverly",
+      "description": "1963, charcoal/paper, 24 x 18 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/005-Beverly-873c2a81d6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271796784-EWM4AAMI3OQP0VEYE58N/06_NEX5N_01_2582_2048p.jpg",
+      "title": "Beverly",
+      "description": "1963, charcoal/paper, 24 x 18 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/006-Beverly-05f7195824.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271796279-6X86FZCINLFPF1CTI31Z/07_Can10D_01_4803_2048p.jpg",
+      "title": "Wendy",
+      "description": "1970, charcoal/paper, 23 x 17 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/007-Wendy-6ab0aee531.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271798754-GTH80V8XZYLEECY7T4K3/08_SonNX7_03_8626_2048p.jpg",
+      "title": "Bruce",
+      "description": "1980, oil/canvas, 24 x 20 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/portraits",
+      "path": "Portraits/008-Bruce-ae99c43929.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271831212-XF3NBYWR7FKOEGI8MNBV/01_NEX5N_01_8645_2048p.jpg",
+      "title": "Spring Storm at Fallbrook",
+      "description": "1961, serigraph/paper, 19.5 x 24.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/001-Spring-Storm-at-Fallbrook-1de18e590c.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271831050-BT65P7V720EIPZIR1IB3/02_NEX5N_01_8685_2048p.jpg",
+      "title": "Northern Lights",
+      "description": "1961, serigraph/paper, 4.5 x 13 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/002-Northern-Lights-c7d82a284e.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271833862-B69OEK2L6H176Z2T2DMI/03_A6000_01_3763_2048p.jpg",
+      "title": "Rhine series, exhibition",
+      "description": "",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/003-Rhine-series-exhibition-86a78dff7d.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271835003-OGCKL30P46PZ6GOE9PLT/04_20110915_01_2048p.jpg",
+      "title": "The Rhine, Bachrach",
+      "description": "1964, serigraph/paper, 13.5 x 17.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/004-The-Rhine-Bachrach-74f81c17b0.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271837336-9O6Z8FCDRC4DZ28DFJOP/05_20110915_02_2048p.jpg",
+      "title": "The Rhine, The Loreley",
+      "description": "1964, serigraph/paper, 13.5 x 17.75 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/005-The-Rhine-The-Loreley-7026f29aa1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271839695-TY6OCYOHYR3D9GFSGHD8/06_20110915_03_2048p.jpg",
+      "title": "The Rhine, Caub Rhine Toll",
+      "description": "1964, serigraph/paper, 13.5 x 19 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/006-The-Rhine-Caub-Rhine-Toll-d9f5e676e1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271842059-YDR8MKA6FAIXPNJYMKT8/07_NEX5N_01_8651_2048p.jpg",
+      "title": "Vence — Matisse Chapel",
+      "description": "1966, serigraph/paper, 18 x 23.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/007-Vence-Matisse-Chapel-3844ecab95.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271844818-ITWPAZ8ARH028ZM7I8AC/08_NEX5N_01_3056_2048p.jpg",
+      "title": "Inverary Castle",
+      "description": "1969, serigraph/paper, 13.5 x 19 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/008-Inverary-Castle-d161cf03ee.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271845970-DF0SPUHQKDH1V2K78K5I/09_NEX5N_01_8652_2048p.jpg",
+      "title": "Snake River Overlook",
+      "description": "1973, serigraph/paper, 18.5 x 24 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/009-Snake-River-Overlook-12378ef2dd.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271847665-7101SQWL6PAMFQWUQRJD/10_NEX5N_01_8667_2048p.jpg",
+      "title": "Jackson Lake, Tetons",
+      "description": "1976, serigraph/paper, 6 x 18 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/010-Jackson-Lake-Tetons-f8d62b72ee.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271849414-PAQVKTQ9D7ZAVLADYQDL/11_NEX5N_01_8669_2048p.jpg",
+      "title": "Going to the Sun Road",
+      "description": "1979, woodblock/paper, 10.25 x 15.25 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/011-Going-to-the-Sun-Road-43710c1341.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271850511-3HZJARTKN0U9UIXXGULN/12_NEX5N_01_8683_2048p.jpg",
+      "title": "Baptism River",
+      "description": "1982, woodblock/paper, 8.5 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/prints",
+      "path": "Prints/012-Baptism-River-a47366c161.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271886534-CV2JZ75Z6FSCDEX0INE3/01_Mesa+Verde+woodie+04_2048p.jpg",
+      "title": "Mesa Verde",
+      "description": "1968, acrylic/wood, 37 x 49 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/001-Mesa-Verde-104ff5b9d2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271886422-150Q3B1QOUME4IEJEB38/02_Yosemite+woodie+scan_2048p.jpg",
+      "title": "Yosemite",
+      "description": "1968, acrylic/wood, 48 x 37.25 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/002-Yosemite-8ef6af591e.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271890125-V9THOOBP2WK9EGTT0K2M/03_A6000_01_1633_2048p.jpg",
+      "title": "Hi-Lei",
+      "description": "1992, acrylic/wood, 58 x 71 x 5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/003-Hi-Lei-78a7301235.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271890652-JJZ49QKHI1DR7P9STOQX/04_20120212_6423_2048p.jpg",
+      "title": "Boltaña de Puente Romano",
+      "description": "2011, acrylic/wood, 41.5 x 57 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/004-Boltaña-de-Puente-Romano-51465a27b1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271894071-E94J0003N56UV91OJEDJ/05_NEX5N_01_2453_2048p.jpg",
+      "title": "Viaducto",
+      "description": "2012, acrylic/wood, 57 x 41 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/005-Viaducto-615244cf87.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271894355-7BIZZ7E6GA02F0WL5APK/06_A6000_01_4588_2048p.jpg",
+      "title": "Ehuman",
+      "description": "2015, acrylic/wood, 53.5 x 35 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/sculptures",
+      "path": "Sculptures/006-Ehuman-66dd81de53.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271711461-PMAQFUM48GS335CW447S/01_A6000_01_4327_2048p.jpg",
+      "title": "Summer Woods",
+      "description": "1955, watercolor/paper, 24.5 x 19.25 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/001-Summer-Woods-b8ef9a0b43.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271710322-MWINZ0S554TY1JS6IH48/02_NEX5N_01_2924_2048p.jpg",
+      "title": "Zanesville Farm",
+      "description": "1954, watercolor/paper, 20 x 24 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/002-Zanesville-Farm-fdbfc6d39a.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271714197-IA8PD0M6WRDULCWPORL0/03_NEX5N_01_2811_2048p.jpg",
+      "title": "Fall  Shore",
+      "description": "1962, watercolor/paper, 9 x 11.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/003-Fall-Shore-1e5eed2b16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271715771-FMHAIK24I2XN2N7ABQWA/04_NEX5N_01_2919_2048p.jpg",
+      "title": "Big Sur",
+      "description": "1976, watercolor/paper, 16 x 12 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/004-Big-Sur-815b5d0a88.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271718596-FUQ9TB68ULE8C6LKR2CT/05_NEX5N_01_2878_2048p.jpg",
+      "title": "Michigan Shore — Left",
+      "description": "1970, watercolor/paper, 15 x 20 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/005-Michigan-Shore-Left-4f1bf3ab9a.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271719709-6GAS6WHUFYEOZEPXPGMB/06_NEX5N_01_2877_2048p.jpg",
+      "title": "Michigan Shore — Right",
+      "description": "1970, watercolor/paper, 15 x 20 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/006-Michigan-Shore-Right-3341689470.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271723868-YNUY16VC5MK0WGJ413J5/07_NEX5N_01_2886_2048p.jpg",
+      "title": "Guanajuato",
+      "description": "1971, watercolor/paper, 18.75 x 23 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/007-Guanajuato-ae372ca91b.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271723980-X2846BPMCSXNFGLZ07M3/08_NEX5N_01_2862_2048p.jpg",
+      "title": "San Miguel de Allende",
+      "description": "1971, watercolor/paper, 18.75 x 23 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/008-San-Miguel-de-Allende-6f3cb6fa58.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271728690-H1MJF67ZDJ21V732F6V5/09_NEX5N_01_2859_2048p.jpg",
+      "title": "Snake River Overlook",
+      "description": "1973, watercolor/paper, 18.5 x 24 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/009-Snake-River-Overlook-6cf5d23bb0.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271728350-IZXFBO75XKMEYRVIXLUU/10_NEX5N_01_2915_2048p.jpg",
+      "title": "West Lake",
+      "description": "1973, watercolor/paper, 12 x 18 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/010-West-Lake-5204db3d41.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271731087-OV1FYGZ64NS9P57SMQSP/11_NEX5N_01_3057_2048p.jpg",
+      "title": "West Valley",
+      "description": "1973, watercolor/paper, 18.75 x 23 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/011-West-Valley-3dbb9ee361.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271733655-LT0UXFEWR680P9KED3VH/12_NEX5N_01_2892_2048p.jpg",
+      "title": "Wild Goose Island",
+      "description": "1973, watercolor/paper, 18.75 x 23 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/012-Wild-Goose-Island-a314f004a9.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271737835-DOO2RX2SG71EDRQ4BHMI/13_NEX5N_01_3041_2048p.jpg",
+      "title": "Jackson Lake",
+      "description": "1976, watercolor/paper, 14 x 10.75 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/013-Jackson-Lake-7da844a230.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271738737-LHSAI8YKM0MCUTKL9DH4/14_A6000_01_4485_2048p.jpg",
+      "title": "Gooseberry Falls",
+      "description": "1981, watercolor/paper, 10.5 x 13.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/014-Gooseberry-Falls-86eb7be599.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271741044-QAKR3MLELPDEB0I7SLAN/15_A6000_01_4488_2048p.jpg",
+      "title": "Minnesota Lake",
+      "description": "1981, watercolor/paper, 10.5 x 13.5 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/015-Minnesota-Lake-308a8104af.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271742661-RLBNGY4BZYQTJSLUIGPM/16_A6000_01_4491_2048p.jpg",
+      "title": "Baptism River",
+      "description": "1981, watercolor/paper, 8.5 x 6 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/016-Baptism-River-b1ab1bcbc9.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/577fc707b8a79b6381ad0996/1468271745751-0396181OJ2L8I42B68JJ/17_A6000_01_4501_2048p.jpg",
+      "title": "Split Rock Lighthouse",
+      "description": "1982, watercolor/paper, 9 x 11.75 in",
+      "kind": "image",
+      "page": "https://davidmcampbell.net/watercolors",
+      "path": "Watercolors/017-Split-Rock-Lighthouse-7870cc164d.jpg"
+    }
+  ],
+  "errors": []
+}

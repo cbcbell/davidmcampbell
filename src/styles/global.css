@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-serif: var(--font-timeless-serif);
+  --color-ink: #252525;
+  --color-accent: #315cbd;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-white font-serif text-ink antialiased; }
+  button, summary { cursor: pointer; }
+  a, button, summary { -webkit-tap-highlight-color: transparent; }
+  :focus-visible { outline: 2px solid var(--color-accent); outline-offset: 4px; }
+}
+
+@view-transition {
+  navigation: auto;
+}
+
+.nav-active-indicator {
+  position: absolute;
+  inset: -2px 0 auto;
+  height: 2px;
+  background: var(--color-accent);
+  view-transition-name: active-nav;
+}
+
+::view-transition-group(active-nav) {
+  animation-duration: 380ms;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@keyframes nav-weight-in {
+  from { font-weight: 400; }
+  to { font-weight: 700; }
+}
+
+nav[aria-label="Main navigation"] [aria-current="page"] {
+  animation: nav-weight-in 380ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.about-copy h1 {
+  @apply mb-7 font-serif text-3xl leading-tight font-medium tracking-[-0.045em] sm:text-[2.1rem];
+}
+
+.about-copy h2 {
+  @apply mt-12 mb-4 font-serif text-2xl leading-tight font-medium tracking-[-0.025em] sm:text-[1.75rem];
+}
+
+.about-copy p {
+  @apply mb-5 text-[15px] leading-[1.85] text-neutral-700;
+}
+
+.about-copy strong { @apply font-semibold text-ink; }
+.about-copy em { @apply font-serif; }
+.about-copy a { @apply underline underline-offset-3; }
+.about-copy > :first-child { @apply mt-0; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  nav[aria-label="Main navigation"] [aria-current="page"] { animation: none; }
+  ::view-transition-group(active-nav),
+  ::view-transition-old(root),
+  ::view-transition-new(root) { animation-duration: 0.01ms !important; }
+}

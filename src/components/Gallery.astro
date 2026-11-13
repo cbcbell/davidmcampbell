@@ -1,0 +1,19 @@
+---
+import { getImage } from "astro:assets"
+import { getGallery, type Section } from "../lib/gallery"
+import GalleryViewer from "./GalleryViewer"
+
+type Props = { section: Section }
+const { section } = Astro.props
+const title = section[0].toUpperCase() + section.slice(1)
+const originals = await getGallery(section)
+const images = await Promise.all(originals.map(async ({ image, title, description }) => {
+  const thumbnail = await getImage({ src: image, width: Math.min(560, image.width), format: "webp" })
+  return { src: image.src, thumbnail: thumbnail.src, width: image.width, height: image.height, title, description }
+}))
+---
+
+<section class="gallery" aria-label={`${title} gallery`}>
+  <h1 class="mb-7 font-serif text-3xl font-medium tracking-[-0.045em] sm:text-[2.1rem]">{title}</h1>
+  <GalleryViewer images={images} title={title} client:load />
+</section>

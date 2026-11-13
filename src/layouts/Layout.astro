@@ -1,0 +1,44 @@
+---
+import "../styles/global.css"
+import { Font } from "astro:assets"
+import Header from "../components/Header.astro"
+
+type Props = { title?: string; description?: string; active?: "home" | "works" | "about" }
+const {
+  title = "David Campbell",
+  description = "Paintings, watercolors, portraits, prints, and sculptures by David Campbell (1931–2018).",
+  active,
+} = Astro.props
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#ffffff" />
+    <Font cssVariable="--font-timeless-serif" preload={[{ style: "normal" }]} />
+    <title>{title === "David Campbell" ? title : `${title} — David Campbell`}</title>
+  </head>
+  <body class="min-h-screen">
+    <Header />
+    <main class:list={[
+      "w-full pb-20",
+      active === "works"
+        ? "px-6 sm:px-10 lg:px-16 xl:px-20"
+        : "mx-auto max-w-[824px] px-6 sm:px-8",
+    ]}>
+      <slot />
+    </main>
+    <footer class:list={[
+      "flex items-center justify-between gap-4 border-t border-neutral-200 py-8 text-xs text-neutral-500",
+      active === "works"
+        ? "px-6 sm:px-10 lg:px-16 xl:px-20"
+        : "mx-auto max-w-[824px] px-6 sm:px-8",
+    ]}>
+      <span>© David Campbell</span>
+      <a class="hover:text-accent" href="mailto:bevcamp625@gmail.com" aria-label="Email">Email</a>
+    </footer>
+  </body>
+</html>

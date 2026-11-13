@@ -1,0 +1,19 @@
+---
+import { Image } from "astro:assets"
+import Layout from "../layouts/Layout.astro"
+import homeImage from "../../content/About/001-Can052_02_3752_1024p-0d9acd11d5.jpg"
+---
+
+<Layout active="home">
+  <a href="/paintings" class="block" aria-label="Explore David Campbell's works">
+    <Image
+      src={homeImage}
+      alt="David Campbell painting in his studio"
+      class="h-auto w-full"
+      widths={[480, 760, 1200, 1600]}
+      sizes="(min-width: 824px) 760px, calc(100vw - 3rem)"
+      loading="eager"
+      fetchpriority="high"
+    />
+  </a>
+</Layout>
