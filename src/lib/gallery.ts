@@ -1,5 +1,6 @@
 import type { ImageMetadata } from "astro"
 import exifr from "exifr"
+import { readFile } from "node:fs/promises"
 import { basename, resolve } from "node:path"
 
 export const sections = ["paintings", "watercolors", "portraits", "prints", "sculptures"] as const
@@ -18,7 +19,7 @@ export async function getGallery(section: Section) {
 
   return Promise.all(entries.map(async ([path, image]) => {
     const file = resolve(process.cwd(), "content", folder, basename(path))
-    const metadata = await exifr.parse(file, { iptc: true }).catch(() => undefined)
+    const metadata = await exifr.parse(await readFile(file), { iptc: true }).catch(() => undefined)
     const title = String(metadata?.XPTitle || metadata?.Title || basename(path).replace(/^\d+-/, "").replace(/-[a-f0-9]{10}\.[^.]+$/, "").replaceAll("-", " "))
     const description = String(metadata?.ImageDescription || metadata?.Description || "")
     return { image: image.default, title, description }
