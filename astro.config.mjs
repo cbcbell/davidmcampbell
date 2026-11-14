@@ -3,7 +3,7 @@ import react from "@astrojs/react"
 import tailwindcss from "@tailwindcss/vite"
 
 export default defineConfig({
-  site: "https://davidmcampbell.net",
+  site: "https://davidmcampbell.vercel.app",
   integrations: [react()],
   fonts: [{
     name: "Timeless Serif",
